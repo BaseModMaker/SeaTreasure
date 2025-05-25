@@ -1,6 +1,6 @@
 /.editor_settings
 /.internal
-/build
+# /build
 .externalToolBuilders
 .DS_Store
 Thumbs.db
@@ -8,4 +8,4 @@ Thumbs.db
 *.pyc
 .project
 .cproject
-builtins
+# builtins
